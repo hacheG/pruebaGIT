@@ -1,3 +1,5 @@
 .env
 #para carpetas
 node_modules/
+#se puede agregar lo que se necesite
+.unity
